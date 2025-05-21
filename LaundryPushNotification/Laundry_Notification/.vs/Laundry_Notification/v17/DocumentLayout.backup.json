@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.presentation\\config\\firebase\\serviceaccountkey.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|solutionrelative:laundry_notification.presentation\\config\\firebase\\serviceaccountkey.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|solutionrelative:laundry_notification.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.presentation\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|solutionrelative:laundry_notification.presentation\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|solutionrelative:laundry_notification.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1DED03-7A07-4CD7-B85F-DFCBB8D9BE35}|..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Laundry_Notification.ShareLibary.csproj|d:\\finalyearproject\\laundrypushnotification\\laundrynotificationsharelibary\\laundry_notification.sharelibary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1DED03-7A07-4CD7-B85F-DFCBB8D9BE35}|..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Laundry_Notification.ShareLibary.csproj|d:\\finalyearproject\\laundrypushnotification\\laundrynotificationsharelibary\\laundry_notification.sharelibary\\helper\\firebaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094352A-07DB-4346-ABD7-A48957A2F71E}|Laundry_Notification.Infrastructure\\Laundry_Notification.Infrastructure.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.infrastructure\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094352A-07DB-4346-ABD7-A48957A2F71E}|Laundry_Notification.Infrastructure\\Laundry_Notification.Infrastructure.csproj|solutionrelative:laundry_notification.infrastructure\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094352A-07DB-4346-ABD7-A48957A2F71E}|Laundry_Notification.Infrastructure\\Laundry_Notification.Infrastructure.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.infrastructure\\repositories\\notificationtemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094352A-07DB-4346-ABD7-A48957A2F71E}|Laundry_Notification.Infrastructure\\Laundry_Notification.Infrastructure.csproj|solutionrelative:laundry_notification.infrastructure\\repositories\\notificationtemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0AE49C-D0E8-47CD-8428-C3332D54B775}|Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.domain\\entities\\notificationtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0AE49C-D0E8-47CD-8428-C3332D54B775}|Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj|solutionrelative:laundry_notification.domain\\entities\\notificationtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0AE49C-D0E8-47CD-8428-C3332D54B775}|Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0AE49C-D0E8-47CD-8428-C3332D54B775}|Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj|solutionrelative:laundry_notification.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CEEDF-C39F-4B24-855A-4A4D23627D1F}|Laundry_Notification.Application\\Laundry_Notification.Application.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.application\\interface\\inotificationtemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CEEDF-C39F-4B24-855A-4A4D23627D1F}|Laundry_Notification.Application\\Laundry_Notification.Application.csproj|solutionrelative:laundry_notification.application\\interface\\inotificationtemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CEEDF-C39F-4B24-855A-4A4D23627D1F}|Laundry_Notification.Application\\Laundry_Notification.Application.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.application\\interface\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CEEDF-C39F-4B24-855A-4A4D23627D1F}|Laundry_Notification.Application\\Laundry_Notification.Application.csproj|solutionrelative:laundry_notification.application\\interface\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CEEDF-C39F-4B24-855A-4A4D23627D1F}|Laundry_Notification.Application\\Laundry_Notification.Application.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.application\\dtos\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CEEDF-C39F-4B24-855A-4A4D23627D1F}|Laundry_Notification.Application\\Laundry_Notification.Application.csproj|solutionrelative:laundry_notification.application\\dtos\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1DED03-7A07-4CD7-B85F-DFCBB8D9BE35}|..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Laundry_Notification.ShareLibary.csproj|d:\\finalyearproject\\laundrypushnotification\\laundrynotificationsharelibary\\laundry_notification.sharelibary\\responses\\reponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1DED03-7A07-4CD7-B85F-DFCBB8D9BE35}|..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Laundry_Notification.ShareLibary.csproj|d:\\finalyearproject\\laundrypushnotification\\laundrynotificationsharelibary\\laundry_notification.sharelibary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1DED03-7A07-4CD7-B85F-DFCBB8D9BE35}|..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Laundry_Notification.ShareLibary.csproj|d:\\finalyearproject\\laundrypushnotification\\laundrynotificationsharelibary\\laundry_notification.sharelibary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1DED03-7A07-4CD7-B85F-DFCBB8D9BE35}|..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Laundry_Notification.ShareLibary.csproj|d:\\finalyearproject\\laundrypushnotification\\laundrynotificationsharelibary\\laundry_notification.sharelibary\\dependencyinjection\\shareservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0AE49C-D0E8-47CD-8428-C3332D54B775}|Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.domain\\laundry_notification.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB0AE49C-D0E8-47CD-8428-C3332D54B775}|Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj|solutionrelative:laundry_notification.domain\\laundry_notification.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|d:\\finalyearproject\\laundrypushnotification\\laundry_notification\\laundry_notification.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9491A781-C312-41E7-BBC6-13F54F2F3653}|Laundry_Notification.Presentation\\Laundry_Notification.Presentation.csproj|solutionrelative:laundry_notification.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Infrastructure\\Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Infrastructure\\Service\\NotificationService.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Infrastructure\\Service\\NotificationService.cs",
+              "RelativeToolTip": "Laundry_Notification.Infrastructure\\Service\\NotificationService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwFkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:06:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationTemplateRepository.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Infrastructure\\Repositories\\NotificationTemplateRepository.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Infrastructure\\Repositories\\NotificationTemplateRepository.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Infrastructure\\Repositories\\NotificationTemplateRepository.cs",
+              "RelativeToolTip": "Laundry_Notification.Infrastructure\\Repositories\\NotificationTemplateRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:02:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirebaseInitializer.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Helper\\FirebaseInitializer.cs",
+              "RelativeDocumentMoniker": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Helper\\FirebaseInitializer.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Helper\\FirebaseInitializer.cs",
+              "RelativeToolTip": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Helper\\FirebaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:49:16.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Interface\\IGenericInterface.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:49:22.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Presentation\\Program.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Program.cs",
+              "RelativeToolTip": "Laundry_Notification.Presentation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:16:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Presentation\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Laundry_Notification.Presentation\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:27:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Laundry_Notification.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Laundry_Notification.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T14:17:18.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceAccountKey.json",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Config\\Firebase\\ServiceAccountKey.json",
+              "RelativeDocumentMoniker": "Laundry_Notification.Presentation\\Config\\Firebase\\ServiceAccountKey.json",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\Config\\Firebase\\ServiceAccountKey.json",
+              "RelativeToolTip": "Laundry_Notification.Presentation\\Config\\Firebase\\ServiceAccountKey.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T04:09:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationTemplate.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Domain\\Entities\\NotificationTemplate.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Domain\\Entities\\NotificationTemplate.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Domain\\Entities\\NotificationTemplate.cs",
+              "RelativeToolTip": "Laundry_Notification.Domain\\Entities\\NotificationTemplate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:07:14.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Domain\\Entities\\Notification.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Laundry_Notification.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:52:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotificationTemplateRepository.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Application\\Interface\\INotificationTemplateRepository.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Application\\Interface\\INotificationTemplateRepository.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Application\\Interface\\INotificationTemplateRepository.cs",
+              "RelativeToolTip": "Laundry_Notification.Application\\Interface\\INotificationTemplateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:00:55.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Application\\Interface\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Application\\Interface\\INotificationService.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Application\\Interface\\INotificationService.cs",
+              "RelativeToolTip": "Laundry_Notification.Application\\Interface\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:51:45.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationRequest.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Application\\DTOs\\NotificationRequest.cs",
+              "RelativeDocumentMoniker": "Laundry_Notification.Application\\DTOs\\NotificationRequest.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Application\\DTOs\\NotificationRequest.cs",
+              "RelativeToolTip": "Laundry_Notification.Application\\DTOs\\NotificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:29:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reponse.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Responses\\Reponse.cs",
+              "RelativeDocumentMoniker": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Responses\\Reponse.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Responses\\Reponse.cs",
+              "RelativeToolTip": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Responses\\Reponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:16:17.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Middleware\\GlobalException.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Middleware\\GlobalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:16:16.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShareServiceContainer.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\DependencyInjection\\ShareServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\DependencyInjection\\ShareServiceContainer.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\DependencyInjection\\ShareServiceContainer.cs",
+              "RelativeToolTip": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\DependencyInjection\\ShareServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:49:26.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Logs\\LogException.cs",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Logs\\LogException.cs",
+              "RelativeToolTip": "..\\LaundryNotificationShareLibary\\Laundry_Notification.ShareLibary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:08:50.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Laundry_Notification.Domain.csproj",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj",
+              "RelativeDocumentMoniker": "Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj",
+              "RelativeToolTip": "Laundry_Notification.Domain\\Laundry_Notification.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T07:01:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Laundry_Notification.Presentation\\appsettings.json",
+              "ToolTip": "D:\\FinalYearProject\\LaundryPushNotification\\Laundry_Notification\\Laundry_Notification.Presentation\\appsettings.json",
+              "RelativeToolTip": "Laundry_Notification.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T14:17:10.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

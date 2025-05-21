@@ -1,0 +1,6 @@
+@Laundry_Notification.Presentation_HostAddress = http://localhost:5232
+
+GET {{Laundry_Notification.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
